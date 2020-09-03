@@ -157,7 +157,7 @@
                         Leading School <br>
                         Joypurhat (Bangladesh)  <br>
                         <a href="http://www.shcj.tk/" target="blank">http://www.shcj.tk/</a> <br>
-                        Result: A (3.92/4.00) <br>
+                       
                      </li>
                      <hr>
                      <li>
